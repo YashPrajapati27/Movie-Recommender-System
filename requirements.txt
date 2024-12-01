@@ -1,4 +1,7 @@
-streamlit
-pandas
-requests
-pickle5
+Streamlit==version 1.30.0
+pandas==2.2.2
+numpy==1.26.4
+sklearn==1.5.2
+nltk==3.9.1
+pickle
+requests==2.32.3
